@@ -38,7 +38,7 @@ export default function HeroSection() {
             </Text>{' '}
           </Heading>
           <Text fontSize={{ base: 'md', lg: 'lg' }} color={'gray.500'}>
-            La plataforma ideal para conectar con proyectos exclusivos en energía renovable. Perfecta para freelancers, agencias y profesionales independientes.
+            La plataforma ideal para conectar con proyectos exclusivos en energía renovable. Unete a nuestra lista de espera si eres proveedor, comprador o te encargas de la logista.
           </Text>
           <Stack direction={{ base: 'column', md: 'row' }}>
             <Button
@@ -50,7 +50,7 @@ export default function HeroSection() {
               }}>
               Publicar proyecto
             </Button>
-            <Button rounded={'full'}>WhiteList</Button>
+            <Button rounded={'full'}>Adiconar a la lista </Button>
           </Stack>
         </Stack>
       </Flex>
