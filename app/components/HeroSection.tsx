@@ -51,8 +51,8 @@ export default function HeroSection() {
               Publicar proyecto
             </Button>
             <Button rounded={'full'}>Adiconar a la lista </Button>
-          </Stack>
-        </Stack> */}
+          </Stack>*/}
+        </Stack> 
       </Flex>
       <Flex flex={1}>
         <Image
