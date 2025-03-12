@@ -40,7 +40,7 @@ export default function HeroSection() {
           <Text fontSize={{ base: 'md', lg: 'lg' }} color={'gray.500'}>
             La plataforma ideal para conectar con proyectos exclusivos en energía renovable. Unete a nuestra lista de espera si eres proveedor, comprador o te encargas de la logista.
           </Text>
-          <Stack direction={{ base: 'column', md: 'row' }}>
+          {/* <Stack direction={{ base: 'column', md: 'row' }}>
             <Button
               rounded={'full'}
               bg={'green.400'}
@@ -52,7 +52,7 @@ export default function HeroSection() {
             </Button>
             <Button rounded={'full'}>Adiconar a la lista </Button>
           </Stack>
-        </Stack>
+        </Stack> */}
       </Flex>
       <Flex flex={1}>
         <Image
